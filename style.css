@@ -1,0 +1,13 @@
+.textoderecha {
+    text-align: right;
+}
+
+table, tr, th, td, caption{
+    border: 1px solid black;
+    background-color: rgb(69, 156, 69);
+    padding: 5px;
+}
+
+td, th, caption {
+    background-color: rgb(134, 221, 112)
+}
