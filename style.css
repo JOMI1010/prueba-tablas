@@ -8,6 +8,20 @@ table, tr, th, td, caption{
     padding: 5px;
 }
 
-td, th, caption {
-    background-color: rgb(134, 221, 112)
+th, caption {
+    background-color: rgb(125, 218, 101)
 }
+
+td {
+    background-color: rgb(164, 228, 148)
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+
